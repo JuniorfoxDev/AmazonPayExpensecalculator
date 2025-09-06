@@ -1,0 +1,13 @@
+{
+    "short_name": "FinTrack",
+    "name": "FinTrack Expense Tracker",
+    "icons": [
+      { "src": "/icons/icon-192.png", "type": "image/png", "sizes": "192x192" },
+      { "src": "/icons/icon-512.png", "type": "image/png", "sizes": "512x512" }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#8DBCC7",
+    "theme_color": "#8DBCC7"
+  }
+  
